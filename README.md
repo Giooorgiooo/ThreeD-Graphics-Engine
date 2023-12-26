@@ -2,7 +2,7 @@
 # ThreeD Graphics Engine
 
 ## Overview
-The 3D Engine is a Java-based graphics engine designed to facilitate the development of 3D applications and games. It provides a foundation for rendering and manipulating 3D scenes, supporting features like object loading, camera movement, and basic lighting.
+The 3D Engine is a Java-based graphics engine designed to facilitate the development of 3D applications and games. It provides a foundation for rendering and manipulating 3D scenes, supporting features like object loading and basic lighting.
 
 ## Features - V1
 - **Object Loading:** Load 3D models from Wavefront (.obj) files, supporting only vertices.
